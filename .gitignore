@@ -43,7 +43,7 @@ yarn-error.log*
 ### yarn ###
 # https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
 
-.yarn/
+.yarn/*
 !.yarn/releases
 !.yarn/plugins
 !.yarn/sdks
